@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "301718594025",
+    "project_id": "spotlight-70f5d",
+    "storage_bucket": "spotlight-70f5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301718594025:android:15310c2feb77befe24ab78",
+        "android_client_info": {
+          "package_name": "com.spotlight.achievements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301718594025-jcrlu1bhgeim12va0589ht32ks938rd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIjH4yJjuNBPmTWIe5Q3tw-kr2lMErybU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301718594025-jcrlu1bhgeim12va0589ht32ks938rd1.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "301718594025-htpqrl9a6s9m3hpj5smnqcv6v29n785b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.spotlight.achievements"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
